@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Omojowo Tolani - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css'  rel='stylesheet'>
-    <style type="text/css">
-    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 *
 {
@@ -286,13 +276,13 @@ body {
 
 /* KEYFRAMES ANIMATION*/
 @keyframes showRight {
-    100%{
+    100% {
         width: 0;
     }
-@keyframes  manipActiveHover{
+      }
+@keyframes  manipActiveHover {
       100% {
           pointer-events: auto;
-      }
 
   }
 
@@ -300,52 +290,4 @@ body {
 
 
 
-    </style>
-</head>
-
-<body>
-
-
-<header class="header">
-<a href="#" class="logo">Tolani.</a>
- <nav class="navbar">
-     <a href="#" class="active">Home</a>
-     <a href="#">About</a>
-     <a href="#">Service</a>
-     <a href="#">Portfolio</a>
-     <a href="#">Contact</a>
-
- </nav>
-
-
-</header>
-
-<section class="home">
-    <div class="home-content">
-        <h1>Hi, I'm Tolani Omojowo</h1>
-        <h3>Website Designer</h3>
-        <p>A versertile freelancer expert specializing in website development, Google My Business optimization, digital marketing and social media marketing. I create engaging digital experiences tailored to each client's needs and help budsinesses stand out on Google. With expertise in SEO, SEM, and social media. I'm available to help you achieve your goals with a customized marketing strategy and specialize in E-commerce store customization and building.</p>
-    <div class="btn-box">
-        <a href="#">Hire Me</a>
-        <a href="#">Let's Talk</a>
-    </div>
-    </div>
-    <div class="home-sci">
-        <a href="#"><i class= 'bx bxl-facebook'></i></a>
-        <a href="#"><i class= 'bx bxl-tiktok'></i></a>
-        <a href="#"><i class= 'bx bxl-instagram'></i></a>
-    </div>
-
-    <span class="hover-fade-image"></span>
-</section>
-</body>
-
-
-
-
-
-
-
-
-
-</html>
+    
